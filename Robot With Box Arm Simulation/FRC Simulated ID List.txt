@@ -1,0 +1,49 @@
+Robot
+		ID: FRC Bot_R0
+				Sensor
+						ID: Devantech SRF05_S0,Controller 1,DIO 1,Controller 1,DIO 2
+						ID: IMU_S0,Controller 1,AI 1
+						ID: AXIS M1011_S0
+						ID: Honeywell HMC6343_S0
+				Joint
+						ID: Joint_J0
+						ID: Joint_J1
+						ID: Joint_J2
+						ID: Joint_J3
+						ID: Joint_J4
+						ID: Joint_J5
+						ID: Joint_J6
+						ID: Joint_J7
+						ID: Joint_J8
+						ID: Joint_J9
+						ID: Joint_J10
+						ID: Joint_J11
+						ID: Joint_J12
+						ID: Joint_J13
+						ID: Joint_J14
+						ID: Joint_J15
+				Actuator
+						ID: LeftMotor,Controller 1,PWM 0
+						ID: RightMotor,Controller 1,PWM 1
+						ID: CameraHorizontalServo,Controller 1,PWM 5
+						ID: BoxMotor,Controller 1,PWM 2
+						ID: BoxMotorTwo,Controller 1,PWM 3
+				Robot Component
+						ID: Body Frame
+						ID: Wheel 1
+						ID: Wheel 2
+						ID: Wheel 3
+						ID: Wheel 4
+						ID: Box
+						ID: Box_O0
+						ID: Box_O1
+						ID: Box_O2
+						ID: Box_O3
+						ID: Box_O4
+						ID: Box_O5
+						ID: Box_O6
+
+
+Obstacle
+						ID: Sphere_O0
+						ID: Cylinder_O0
